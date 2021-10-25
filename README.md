@@ -30,7 +30,7 @@
 - Model Interpretations and performance evaluations
 - Documentations
 
-References :
-[1] Introduction to Machine Learning (2nd Ed.), by Ethem Alpaydin, The MIT Press, 2010
-[2] Introduction to Data Mining, by Pang-Ning Tan, Michael Steinbach, and Vipin Kumar, Addison Wesley, 2005.
-[3] Feature Engineering for Machine Learning, by Alice Zheng, Amanda Casari
+References :<br />
+[1] Introduction to Machine Learning (2nd Ed.), by Ethem Alpaydin, The MIT Press, 2010<br />
+[2] Introduction to Data Mining, by Pang-Ning Tan, Michael Steinbach, and Vipin Kumar, Addison Wesley, 2005.<br />
+[3] Feature Engineering for Machine Learning, by Alice Zheng, Amanda Casari.<br />
